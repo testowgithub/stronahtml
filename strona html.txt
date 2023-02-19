@@ -1,0 +1,684 @@
+<body id="page-mod-quiz-attempt" class="format-topics path-mod path-mod-quiz chrome dir-ltr lang-pl yui-skin-sam yui3-skin-sam mdl-wszib-com-pl pagelayout-incourse course-2257 context-50393 cmid-18929 category-494 drawer-open-left jsenabled">
+<div class="toast-wrapper mx-auto py-0 fixed-top" role="status" aria-live="polite"></div>
+
+<div id="page-wrapper" class="d-print-block">
+
+    <div>
+    <a class="sr-only sr-only-focusable" href="#maincontent">Przejdź do głównej zawartości</a>
+</div><script src="https://mdl.wszib.com.pl/lib/javascript.php/1675033097/lib/babel-polyfill/polyfill.min.js"></script>
+<script src="https://mdl.wszib.com.pl/lib/javascript.php/1675033097/lib/polyfills/polyfill.js"></script>
+<script src="https://mdl.wszib.com.pl/theme/yui_combo.php?rollup/3.17.2/yui-moodlesimple.js"></script><script src="https://mdl.wszib.com.pl/lib/javascript.php/1675033097/lib/javascript-static.js"></script>
+<script>
+//<![CDATA[
+document.body.className += ' jsenabled';
+//]]>
+</script>
+
+
+
+    <nav class="fixed-top navbar navbar-light bg-white navbar-expand moodle-has-zindex" aria-label="Nawigacja strony">
+    
+            <div data-region="drawer-toggle" class="d-inline-block mr-3">
+                <button aria-expanded="true" aria-controls="nav-drawer" type="button" class="btn nav-link float-sm-left mr-1 btn-light bg-gray" data-action="toggle-drawer" data-side="left" data-preference="drawer-open-nav"><i class="icon fa fa-bars fa-fw " aria-hidden="true"></i><span class="sr-only">Panel boczny</span></button>
+            </div>
+    
+            <a href="https://mdl.wszib.com.pl" class="navbar-brand aabtn 
+                    d-none d-sm-inline
+                    ">
+                <span class="site-name d-none d-md-inline">Strona główna</span>
+            </a>
+    
+            <ul class="navbar-nav d-none d-md-flex">
+                <!-- custom_menu -->
+                
+                <!-- page_heading_menu -->
+                
+            </ul>
+            <div class="ml-auto">
+                
+            </div>
+            <ul class="nav navbar-nav usernav">
+                <!-- navbar_plugin_output -->
+                <li class="nav-item">
+                    <div class="popover-region collapsed popover-region-notifications" id="nav-notification-popover-container" data-userid="6046" data-region="popover-region">
+    <div class="popover-region-toggle nav-link icon-no-margin" data-region="popover-region-toggle" role="button" aria-controls="popover-region-container-63f2098d7c9c363f2098d769105" aria-haspopup="true" aria-label="Wyświetl okno bez nowych powiadomień" tabindex="0">
+                <i class="icon fa fa-bell fa-fw " title="Przełącz menu powiadomień" aria-label="Przełącz menu powiadomień"></i>
+        <div class="count-container hidden" data-region="count-container" aria-label="Masz 0 nieprzeczytanych powiadomień">0</div>
+
+    </div>
+    <div id="popover-region-container-63f2098d7c9c363f2098d769105" class="popover-region-container" data-region="popover-region-container" aria-expanded="false" aria-hidden="true" aria-label="Okno powiadomiemia" role="region">
+        <div class="popover-region-header-container">
+            <h3 class="popover-region-header-text" data-region="popover-region-header-text">Powiadomienia</h3>
+            <div class="popover-region-header-actions" data-region="popover-region-header-actions">        <a class="mark-all-read-button" href="#" title="Oznacz wszystko jako przeczytane" data-action="mark-all-read" role="button" aria-label="Oznacz wszystko jako przeczytane">
+            <span class="normal-icon"><i class="icon fa fa-check fa-fw " aria-hidden="true"></i></span>
+            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Ładowanie" aria-label="Ładowanie"></i></span>
+        </a>
+        <a href="https://mdl.wszib.com.pl/message/notificationpreferences.php?userid=6046" title="Preferencje powiadomień" aria-label="Preferencje powiadomień">
+            <i class="icon fa fa-cog fa-fw " aria-hidden="true"></i>
+        </a>
+</div>
+        </div>
+        <div class="popover-region-content-container" data-region="popover-region-content-container">
+            <div class="popover-region-content" data-region="popover-region-content">
+                        <div class="all-notifications" data-region="all-notifications" role="log" aria-busy="false" aria-atomic="false" aria-relevant="additions"></div>
+        <div class="empty-message" tabindex="0" data-region="empty-message">Nie masz powiadomień</div>
+
+            </div>
+            <span class="loading-icon icon-no-margin"><i class="icon fa fa-circle-o-notch fa-spin fa-fw " title="Ładowanie" aria-label="Ładowanie"></i></span>
+        </div>
+                <a class="see-all-link" href="https://mdl.wszib.com.pl/message/output/popup/notifications.php">
+                    <div class="popover-region-footer-container">
+                        <div class="popover-region-seeall-text">Wyświetl wszystko</div>
+                    </div>
+                </a>
+    </div>
+</div>
+                </li>
+                <!-- user_menu -->
+                <li class="nav-item align-items-center pl-2">
+                    <div class="usermenu"><div class="action-menu moodle-actionmenu nowrap-items d-inline" id="action-menu-1" data-enhance="moodle-core-actionmenu">
+
+        <div class="menubar d-flex " id="action-menu-1-menubar" role="menubar">
+
+            
+
+
+                <div class="action-menu-trigger">
+                    <div class="dropdown">
+                        <a href="#" tabindex="0" class="d-inline-block  dropdown-toggle icon-no-margin" id="action-menu-toggle-1" aria-label="Menu użytkownika" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" aria-controls="action-menu-1-menu">
+                            
+                            <span class="userbutton"><span class="usertext mr-1">Kacper Burczak</span><span class="avatars"><span class="avatar current"><img src="https://mdl.wszib.com.pl/pluginfile.php/49858/user/icon/boost/f2?rev=487227" class="userpicture" width="35" height="35" alt=""></span></span></span>
+                                
+                            <b class="caret"></b>
+                        </a>
+                            <div class="dropdown-menu dropdown-menu-right menu  align-tr-br" id="action-menu-1-menu" data-rel="menu-content" aria-labelledby="action-menu-toggle-1" role="menu" data-align="tr-br">
+                                                                <a href="https://mdl.wszib.com.pl/my/" class="dropdown-item menu-action" role="menuitem" data-title="mymoodle,admin" aria-labelledby="actionmenuaction-1">
+                                <i class="icon fa fa-tachometer fa-fw " aria-hidden="true"></i>
+                                <span class="menu-action-text" id="actionmenuaction-1">Kokpit</span>
+                        </a>
+                    <div class="dropdown-divider" role="presentation"><span class="filler">&nbsp;</span></div>
+                                                                <a href="https://mdl.wszib.com.pl/user/profile.php?id=6046" class="dropdown-item menu-action" role="menuitem" data-title="profile,moodle" aria-labelledby="actionmenuaction-2">
+                                <i class="icon fa fa-user fa-fw " aria-hidden="true"></i>
+                                <span class="menu-action-text" id="actionmenuaction-2">Profil</span>
+                        </a>
+                                                                <a href="https://mdl.wszib.com.pl/grade/report/overview/index.php" class="dropdown-item menu-action" role="menuitem" data-title="grades,grades" aria-labelledby="actionmenuaction-3">
+                                <i class="icon fa fa-table fa-fw " aria-hidden="true"></i>
+                                <span class="menu-action-text" id="actionmenuaction-3">Oceny</span>
+                        </a>
+                                                                <a href="https://mdl.wszib.com.pl/message/index.php" class="dropdown-item menu-action" role="menuitem" data-title="messages,message" aria-labelledby="actionmenuaction-4">
+                                <i class="icon fa fa-comment fa-fw " aria-hidden="true"></i>
+                                <span class="menu-action-text" id="actionmenuaction-4">Wiadomości</span>
+                        </a>
+                                                                <a href="https://mdl.wszib.com.pl/user/preferences.php" class="dropdown-item menu-action" role="menuitem" data-title="preferences,moodle" aria-labelledby="actionmenuaction-5">
+                                <i class="icon fa fa-wrench fa-fw " aria-hidden="true"></i>
+                                <span class="menu-action-text" id="actionmenuaction-5">Preferencje</span>
+                        </a>
+                    <div class="dropdown-divider" role="presentation"><span class="filler">&nbsp;</span></div>
+                                                                <a href="https://mdl.wszib.com.pl/login/logout.php?sesskey=QfNw5a1bst" class="dropdown-item menu-action" role="menuitem" data-title="logout,moodle" aria-labelledby="actionmenuaction-6">
+                                <i class="icon fa fa-sign-out fa-fw " aria-hidden="true"></i>
+                                <span class="menu-action-text" id="actionmenuaction-6">Wyloguj</span>
+                        </a>
+                            </div>
+                    </div>
+                </div>
+
+        </div>
+
+</div></div>
+                </li>
+            </ul>
+            <!-- search_box -->
+    </nav>
+    <div id="nav-drawer" data-region="drawer" class="d-print-none moodle-has-zindex " aria-hidden="false" tabindex="-1">
+        <nav class="list-group" aria-label="..Z22/23 - BHP LIC ZARZĄDZANIE">
+            <ul>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2257" data-key="coursehome" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="60" data-nodetype="0" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">..Z22/23 - BHP LIC ZARZĄDZANIE</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/user/index.php?id=2257" data-key="participants" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="90" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="2257">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-users fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Uczestnicy</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/admin/tool/lp/coursecompetencies.php?courseid=2257" data-key="competencies" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="70" data-nodetype="0" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="2257">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-check-square-o fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Kompetencje</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/grade/report/index.php?id=2257" data-key="grades" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="70" data-nodetype="0" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="2257">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-table fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Oceny</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    </ul>
+                    </nav>
+                    <nav class="list-group mt-1" aria-label="Strona">
+                    <ul>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/" data-key="home" data-isexpandable="0" data-indent="0" data-showdivider="1" data-type="1" data-nodetype="1" data-collapse="0" data-forceopen="1" data-isactive="0" data-hidden="0" data-preceedwithhr="0">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-home fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Strona główna</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/my/" data-key="myhome" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="70" data-nodetype="0" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="home">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-tachometer fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Kokpit</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/calendar/view.php?view=month&amp;course=2257" data-key="calendar" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="60" data-nodetype="0" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="1">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-calendar fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Kalendarz</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/user/files.php" data-key="privatefiles" data-isexpandable="0" data-indent="0" data-showdivider="0" data-type="70" data-nodetype="0" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="1">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-file-o fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Prywatne pliki</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <div class="list-group-item " data-key="mycourses" data-isexpandable="1" data-indent="0" data-showdivider="0" data-type="0" data-nodetype="1" data-collapse="0" data-forceopen="1" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="home">
+                            <div class="ml-0">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body">Moje kursy</span>
+                                </div>
+                            </div>
+                        </div>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2363" data-key="2363" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">Z22/23 - Wybór przedmiotu LIC 1 ZARZĄDZANIE.</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2264" data-key="2264" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">..Z22/23 - Szkolenie z obsługi platformy Moodle LIC ZARZĄDZANIE</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2263" data-key="2263" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">..Z22/23 - Zarządzanie relacjami z klientem ZARZĄDZANIE</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2262" data-key="2262" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">..Z22/23 - Psychologia zarządzania z elementami coachingu ZARZĄDZANIE </span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2261" data-key="2261" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">.Z22/23 - Podstawy zarządzania</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2260" data-key="2260" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">.Z22/23 - Marketing i kreowanie wizerunku</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2259" data-key="2259" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">..Z22/23 - Makrootoczenie organizacji ZARZĄDZANIE</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2258" data-key="2258" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="0" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">.Z22/23 - Formy prawne i własnościowe organizacji</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <li>
+                        <a class="list-group-item list-group-item-action  " href="https://mdl.wszib.com.pl/course/view.php?id=2257" data-key="2257" data-isexpandable="1" data-indent="1" data-showdivider="0" data-type="20" data-nodetype="1" data-collapse="0" data-forceopen="1" data-isactive="0" data-hidden="0" data-preceedwithhr="0" data-parent-key="mycourses">
+                            <div class="ml-1">
+                                <div class="media">
+                                        <span class="media-left">
+                                            <i class="icon fa fa-graduation-cap fa-fw " aria-hidden="true"></i>
+                                        </span>
+                                    <span class="media-body ">..Z22/23 - BHP LIC ZARZĄDZANIE</span>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+            </ul>
+        </nav>
+    </div>
+
+    <div id="page" class="container-fluid d-print-block">
+        <header id="page-header" class="row">
+    <div class="col-12 pt-3 pb-3" id="yui_3_17_2_1_1676806542658_318">
+        <div class="card " id="yui_3_17_2_1_1676806542658_317">
+            <div class="card-body " id="yui_3_17_2_1_1676806542658_316">
+                <div class="d-sm-flex align-items-center">
+                    <div class="mr-auto">
+                        <div class="page-context-header"><div class="page-header-headings"><h1>Z22/23 - BHP LIC ZARZĄDZANIE</h1></div></div>
+                    </div>
+
+                    <div class="header-actions-container flex-shrink-0" data-region="header-actions-container">
+                    </div>
+                </div>
+                <div class="d-flex flex-wrap">
+                    <div id="page-navbar">
+                        <nav aria-label="Pasek nawigacyjny">
+    <ol class="breadcrumb">
+                <li class="breadcrumb-item">
+                    <a href="https://mdl.wszib.com.pl/">Strona główna</a>
+                </li>
+        
+                <li class="breadcrumb-item">Moje kursy</li>
+        
+                <li class="breadcrumb-item">
+                    <a href="https://mdl.wszib.com.pl/course/view.php?id=2257" title="Z22/23 - BHP LIC ZARZĄDZANIE">..Z22/23 - BHP LIC ZARZĄDZANIE</a>
+                </li>
+        
+                <li class="breadcrumb-item">Temat 5</li>
+        
+                <li class="breadcrumb-item">
+                    <a href="https://mdl.wszib.com.pl/mod/quiz/view.php?id=18929" aria-current="page" title="Test (Quiz)">Pytania kontrolne do tematu 4</a>
+                </li>
+        </ol>
+</nav>
+                    </div>
+                    <div class="ml-auto d-flex">
+                        
+                    </div>
+                    <div id="course-header">
+                        
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+        <div id="page-content" class="row pb-3 d-print-block">
+            <div id="region-main-box" class="col-12">
+                <section id="region-main" class="has-blocks mb-3" aria-label="Zawartość">
+
+                    <span class="notifications" id="user-notifications"></span>
+                    <div role="main"><span id="maincontent"></span><div id="quiz-timer-wrapper" class="mb-2">
+    <div id="quiz-timer" class="quiz-timer-inner py-1 px-2 ml-auto" role="timer" aria-atomic="true" aria-relevant="text">
+        Pozostały czas
+        <span id="quiz-time-left"></span>
+    </div>
+</div><form action="https://mdl.wszib.com.pl/mod/quiz/processattempt.php?cmid=18929" method="post" enctype="multipart/form-data" accept-charset="utf-8" id="responseform" autocomplete="off"><div id="yui_3_17_2_1_1676806542658_314"><div id="question-45395-1" class="que multichoice adaptive notyetanswered"><div class="info" id="yui_3_17_2_1_1676806542658_315"><h3 class="no">Pytanie <span class="qno">1</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_175"><input type="hidden" name="q45395:1_:flagged" value="0" id="yui_3_17_2_1_1676806542658_34"><input type="hidden" value="qaid=420189&amp;qubaid=45395&amp;qid=37703&amp;slot=1&amp;checksum=e3b6f2e0c7068087841abda9229c5948&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_35">
+<input type="hidden" class="questionflagvalue" id="q45395:1_:flaggedcheckbox" name="q45395:1_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content" id="yui_3_17_2_1_1676806542658_313"><div class="formulation clearfix" id="yui_3_17_2_1_1676806542658_312"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:1_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_36"><div class="qtext">Podstawowym warunkiem dopuszczenia pracownika do pracy jest?</div><div class="ablock no-overflow visual-scroll-x" id="yui_3_17_2_1_1676806542658_311"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer" id="yui_3_17_2_1_1676806542658_310"><div class="r0" id="yui_3_17_2_1_1676806542658_309"><input type="radio" name="q45395:1_answer" value="0" id="q45395:1_answer0" aria-labelledby="q45395:1_answer0_label"><div class="d-flex w-auto" id="q45395:1_answer0_label" data-region="answer-label"><span class="answernumber">A. </span><div class="flex-fill ml-1" id="yui_3_17_2_1_1676806542658_308">ocena zatrudniającego, że się nadaje</div></div> </div>
+<div class="r1"><input type="radio" name="q45395:1_answer" value="1" id="q45395:1_answer1" aria-labelledby="q45395:1_answer1_label"><div class="d-flex w-auto" id="q45395:1_answer1_label" data-region="answer-label"><span class="answernumber">B. </span><div class="flex-fill ml-1">zawarcie umowy o pracę</div></div> </div>
+<div class="r0"><input type="radio" name="q45395:1_answer" value="2" id="q45395:1_answer2" aria-labelledby="q45395:1_answer2_label"><div class="d-flex w-auto" id="q45395:1_answer2_label" data-region="answer-label"><span class="answernumber">C. </span><div class="flex-fill ml-1">aktualne orzeczenie lekarskie stwierdzające brak przeciwwskazań do pracy na określonym stanowisku</div></div> </div>
+<div class="r1"><input type="radio" name="q45395:1_answer" value="3" id="q45395:1_answer3" aria-labelledby="q45395:1_answer3_label"><div class="d-flex w-auto" id="q45395:1_answer3_label" data-region="answer-label"><span class="answernumber">D. </span><div class="flex-fill ml-1">rekomendacja znajomych lub innego pracodawcy</div></div> </div>
+</div><div id="q45395:1_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q45395:1_answer" id="q45395:1_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q45395:1_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Odznacz mój wybór</a></label></div></div><div class="im-controls"><input type="submit" id="q45395:1_-submit" name="q45395:1_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-2" class="que multichoice adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">2</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_183"><input type="hidden" name="q45395:2_:flagged" value="0" id="yui_3_17_2_1_1676806542658_37"><input type="hidden" value="qaid=420190&amp;qubaid=45395&amp;qid=37704&amp;slot=2&amp;checksum=41a487394878bf4c7c64f60bbd97dee2&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_38">
+<input type="hidden" class="questionflagvalue" id="q45395:2_:flaggedcheckbox" name="q45395:2_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:2_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_39"><div class="qtext">Zgodnie z Kodeksem pracy szkoleniem w zakresie bhp są objęci?</div><div class="ablock no-overflow visual-scroll-x"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:2_answer" value="0" id="q45395:2_answer0" aria-labelledby="q45395:2_answer0_label"><div class="d-flex w-auto" id="q45395:2_answer0_label" data-region="answer-label"><span class="answernumber">A. </span><div class="flex-fill ml-1">tylko pracownicy fizyczni</div></div> </div>
+<div class="r1"><input type="radio" name="q45395:2_answer" value="1" id="q45395:2_answer1" aria-labelledby="q45395:2_answer1_label"><div class="d-flex w-auto" id="q45395:2_answer1_label" data-region="answer-label"><span class="answernumber">B. </span><div class="flex-fill ml-1">wszyscy bez względu na rodzaj wykonywanej pracy i zajmowane stanowisko</div></div> </div>
+<div class="r0"><input type="radio" name="q45395:2_answer" value="2" id="q45395:2_answer2" aria-labelledby="q45395:2_answer2_label"><div class="d-flex w-auto" id="q45395:2_answer2_label" data-region="answer-label"><span class="answernumber">C. </span><div class="flex-fill ml-1">jedynie pracodawcy i służba bhp</div></div> </div>
+<div class="r1"><input type="radio" name="q45395:2_answer" value="3" id="q45395:2_answer3" aria-labelledby="q45395:2_answer3_label"><div class="d-flex w-auto" id="q45395:2_answer3_label" data-region="answer-label"><span class="answernumber">D. </span><div class="flex-fill ml-1">wszyscy pracujący w warunkach szczególnych</div></div> </div>
+</div><div id="q45395:2_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q45395:2_answer" id="q45395:2_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q45395:2_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Odznacz mój wybór</a></label></div></div><div class="im-controls"><input type="submit" id="q45395:2_-submit" name="q45395:2_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-3" class="que multichoice adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">3</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_191"><input type="hidden" name="q45395:3_:flagged" value="0" id="yui_3_17_2_1_1676806542658_40"><input type="hidden" value="qaid=420191&amp;qubaid=45395&amp;qid=37702&amp;slot=3&amp;checksum=f47d70634cf74d21c49fb22c31b9ea48&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_41">
+<input type="hidden" class="questionflagvalue" id="q45395:3_:flaggedcheckbox" name="q45395:3_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:3_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_42"><div class="qtext">﻿Obowiązek pracodawcy oceny ryzyka zawodowego dotyczy?</div><div class="ablock no-overflow visual-scroll-x"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:3_answer" value="0" id="q45395:3_answer0" aria-labelledby="q45395:3_answer0_label"><div class="d-flex w-auto" id="q45395:3_answer0_label" data-region="answer-label"><span class="answernumber">A. </span><div class="flex-fill ml-1">wyłącznie stanowisk, na których pracują kobiety i młodociani</div></div> </div>
+<div class="r1"><input type="radio" name="q45395:3_answer" value="1" id="q45395:3_answer1" aria-labelledby="q45395:3_answer1_label"><div class="d-flex w-auto" id="q45395:3_answer1_label" data-region="answer-label"><span class="answernumber">B. </span><div class="flex-fill ml-1">tylko stanowisk z substancjami chemicznymi i biologicznymi</div></div> </div>
+<div class="r0"><input type="radio" name="q45395:3_answer" value="2" id="q45395:3_answer2" aria-labelledby="q45395:3_answer2_label"><div class="d-flex w-auto" id="q45395:3_answer2_label" data-region="answer-label"><span class="answernumber">C. </span><div class="flex-fill ml-1">tylko stanowisk pracy szczególnie uciążliwych</div></div> </div>
+<div class="r1"><input type="radio" name="q45395:3_answer" value="3" id="q45395:3_answer3" aria-labelledby="q45395:3_answer3_label"><div class="d-flex w-auto" id="q45395:3_answer3_label" data-region="answer-label"><span class="answernumber">D. </span><div class="flex-fill ml-1">wszystkich stanowisk pracy</div></div> </div>
+</div><div id="q45395:3_clearchoice" class="qtype_multichoice_clearchoice sr-only" aria-hidden="true"><input type="radio" name="q45395:3_answer" id="q45395:3_answer-1" value="-1" class="sr-only" aria-hidden="true" checked="checked"><label for="q45395:3_answer-1"><a tabindex="-1" role="button" class="btn btn-link ml-3 mt-n1 mb-n1" href="#">Odznacz mój wybór</a></label></div></div><div class="im-controls"><input type="submit" id="q45395:3_-submit" name="q45395:3_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-4" class="que truefalse adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">4</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_199"><input type="hidden" name="q45395:4_:flagged" value="0" id="yui_3_17_2_1_1676806542658_43"><input type="hidden" value="qaid=420192&amp;qubaid=45395&amp;qid=37707&amp;slot=4&amp;checksum=751292e985a7697bb8b9e11b18d0af6e&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_44">
+<input type="hidden" class="questionflagvalue" id="q45395:4_:flaggedcheckbox" name="q45395:4_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:4_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_45"><div class="qtext">Czy pracodawca obowiązany jest dostarczyć pracownikowi nieodpłatnie środki ochrony indywidualnej?</div><div class="ablock"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:4_answer" value="1" id="q45395:4_answertrue"><label for="q45395:4_answertrue" class="ml-1">Prawda</label> </div><div class="r1"><input type="radio" name="q45395:4_answer" value="0" id="q45395:4_answerfalse"><label for="q45395:4_answerfalse" class="ml-1">Fałsz</label> </div></div></div><div class="im-controls"><input type="submit" id="q45395:4_-submit" name="q45395:4_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-5" class="que truefalse adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">5</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_207"><input type="hidden" name="q45395:5_:flagged" value="0" id="yui_3_17_2_1_1676806542658_46"><input type="hidden" value="qaid=420193&amp;qubaid=45395&amp;qid=37706&amp;slot=5&amp;checksum=e372683bb242e8aaacaec83f19f387aa&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_47">
+<input type="hidden" class="questionflagvalue" id="q45395:5_:flaggedcheckbox" name="q45395:5_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:5_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_48"><div class="qtext">Czy pracownik obowiązany jest poddawać się badaniom lekarskim i stosować do ich zaleceń?</div><div class="ablock"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:5_answer" value="1" id="q45395:5_answertrue"><label for="q45395:5_answertrue" class="ml-1">Prawda</label> </div><div class="r1"><input type="radio" name="q45395:5_answer" value="0" id="q45395:5_answerfalse"><label for="q45395:5_answerfalse" class="ml-1">Fałsz</label> </div></div></div><div class="im-controls"><input type="submit" id="q45395:5_-submit" name="q45395:5_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-6" class="que truefalse adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">6</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_215"><input type="hidden" name="q45395:6_:flagged" value="0" id="yui_3_17_2_1_1676806542658_49"><input type="hidden" value="qaid=420194&amp;qubaid=45395&amp;qid=37709&amp;slot=6&amp;checksum=e1d60a8b28e211c1f984b89ab6626b3c&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_50">
+<input type="hidden" class="questionflagvalue" id="q45395:6_:flaggedcheckbox" name="q45395:6_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:6_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_51"><div class="qtext">Czy pracownikowi przysługuje ekwiwalent za posiłki i napoje profilaktyczne?</div><div class="ablock"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:6_answer" value="1" id="q45395:6_answertrue"><label for="q45395:6_answertrue" class="ml-1">Prawda</label> </div><div class="r1"><input type="radio" name="q45395:6_answer" value="0" id="q45395:6_answerfalse"><label for="q45395:6_answerfalse" class="ml-1">Fałsz</label> </div></div></div><div class="im-controls"><input type="submit" id="q45395:6_-submit" name="q45395:6_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-7" class="que truefalse adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">7</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_223"><input type="hidden" name="q45395:7_:flagged" value="0" id="yui_3_17_2_1_1676806542658_52"><input type="hidden" value="qaid=420195&amp;qubaid=45395&amp;qid=37705&amp;slot=7&amp;checksum=41150a78b9dadbf410bc601a5f45b03c&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_53">
+<input type="hidden" class="questionflagvalue" id="q45395:7_:flaggedcheckbox" name="q45395:7_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:7_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_54"><div class="qtext">Czy pracownikowi używającemu własnej odzieży i obuwia jako roboczego pracodawca wypłaca ekwiwalent pieniężny?</div><div class="ablock"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:7_answer" value="1" id="q45395:7_answertrue"><label for="q45395:7_answertrue" class="ml-1">Prawda</label> </div><div class="r1"><input type="radio" name="q45395:7_answer" value="0" id="q45395:7_answerfalse"><label for="q45395:7_answerfalse" class="ml-1">Fałsz</label> </div></div></div><div class="im-controls"><input type="submit" id="q45395:7_-submit" name="q45395:7_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-8" class="que truefalse adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">8</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_231"><input type="hidden" name="q45395:8_:flagged" value="0" id="yui_3_17_2_1_1676806542658_55"><input type="hidden" value="qaid=420196&amp;qubaid=45395&amp;qid=37711&amp;slot=8&amp;checksum=ebb1dd051408fc64471fd0109c1f7182&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_56">
+<input type="hidden" class="questionflagvalue" id="q45395:8_:flaggedcheckbox" name="q45395:8_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:8_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_57"><div class="qtext">Czy pracownikowi wolno prać i naprawiać skażoną odzież i obuwie robocze?</div><div class="ablock"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:8_answer" value="1" id="q45395:8_answertrue"><label for="q45395:8_answertrue" class="ml-1">Prawda</label> </div><div class="r1"><input type="radio" name="q45395:8_answer" value="0" id="q45395:8_answerfalse"><label for="q45395:8_answerfalse" class="ml-1">Fałsz</label> </div></div></div><div class="im-controls"><input type="submit" id="q45395:8_-submit" name="q45395:8_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-9" class="que truefalse adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">9</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_239"><input type="hidden" name="q45395:9_:flagged" value="0" id="yui_3_17_2_1_1676806542658_58"><input type="hidden" value="qaid=420197&amp;qubaid=45395&amp;qid=37710&amp;slot=9&amp;checksum=cad3efafd4f689bfdc2c3016a4240f15&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_59">
+<input type="hidden" class="questionflagvalue" id="q45395:9_:flaggedcheckbox" name="q45395:9_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:9_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_60"><div class="qtext">Czy stosowane substancji chemicznych nie oznakowanych jest dozwolone?</div><div class="ablock"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:9_answer" value="1" id="q45395:9_answertrue"><label for="q45395:9_answertrue" class="ml-1">Prawda</label> </div><div class="r1"><input type="radio" name="q45395:9_answer" value="0" id="q45395:9_answerfalse"><label for="q45395:9_answerfalse" class="ml-1">Fałsz</label> </div></div></div><div class="im-controls"><input type="submit" id="q45395:9_-submit" name="q45395:9_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div id="question-45395-10" class="que truefalse adaptive notyetanswered"><div class="info"><h3 class="no">Pytanie <span class="qno">10</span></h3><div class="state">Nie zakończone</div><div class="grade">Punkty maks.: 1,00</div><div class="questionflag editable" aria-atomic="true" aria-relevant="text" aria-live="assertive" id="yui_3_17_2_1_1676806542658_247"><input type="hidden" name="q45395:10_:flagged" value="0" id="yui_3_17_2_1_1676806542658_61"><input type="hidden" value="qaid=420198&amp;qubaid=45395&amp;qid=37708&amp;slot=10&amp;checksum=f5fb749b48c3aba16faf4dd6ca90ccb1&amp;sesskey=QfNw5a1bst&amp;newstate=" class="questionflagpostdata" id="yui_3_17_2_1_1676806542658_62">
+<input type="hidden" class="questionflagvalue" id="q45395:10_:flaggedcheckbox" name="q45395:10_:flagged" value="0"><input type="image" class="questionflagimage" src="https://mdl.wszib.com.pl/theme/image.php/boost/core/1675033097/i/unflagged" title="Zaznacz to pytanie flagą" alt="Nie oznaczony flagą"><span class="questionflagtext" title="Zaznacz to pytanie flagą">Oflaguj pytanie</span></div></div><div class="content"><div class="formulation clearfix"><h4 class="accesshide">Treść pytania</h4><input type="hidden" name="q45395:10_:sequencecheck" value="1" id="yui_3_17_2_1_1676806542658_63"><div class="qtext">Czy szkolenie wstępne z bhp obejmuje instruktaż ogólny i stanowiskowy?</div><div class="ablock"><div class="prompt">Wybierz jedną odpowiedź:</div><div class="answer"><div class="r0"><input type="radio" name="q45395:10_answer" value="1" id="q45395:10_answertrue"><label for="q45395:10_answertrue" class="ml-1">Prawda</label> </div><div class="r1"><input type="radio" name="q45395:10_answer" value="0" id="q45395:10_answerfalse"><label for="q45395:10_answerfalse" class="ml-1">Fałsz</label> </div></div></div><div class="im-controls"><input type="submit" id="q45395:10_-submit" name="q45395:10_-submit" value="Sprawdź" class="submit btn btn-secondary"></div></div></div></div><div class="submitbtns"><input type="submit" name="next" value="Zapisz podejście ..." class="mod_quiz-next-nav btn btn-primary" id="mod_quiz-next-nav"></div><input type="hidden" name="attempt" value="38475" id="yui_3_17_2_1_1676806542658_64"><input type="hidden" name="thispage" value="0" id="followingpage"><input type="hidden" name="nextpage" value="-1" id="yui_3_17_2_1_1676806542658_65"><input type="hidden" name="timeup" value="0" id="timeup"><input type="hidden" name="sesskey" value="QfNw5a1bst" id="yui_3_17_2_1_1676806542658_66"><input type="hidden" name="scrollpos" value="" id="scrollpos"><input type="hidden" name="slots" value="1,2,3,4,5,6,7,8,9,10" id="yui_3_17_2_1_1676806542658_67"></div></form><div id="connection-error" style="display: none;" role="alert"><p>Utracono połączenie. (Automatyczny zapis nie powiódł się).</p>
+
+<p>Zanotuj wszystkie odpowiedzi, jakich udzieliłeś na tej stronie w ciągu ostatnich kilku minut i spróbuj połączyć się z siecią ponownie.</p>
+
+<p>Kiedy połączenie zostanie nawiązane, Twoje odpowiedzi zostaną zapisane, a ten komunikat zniknie.</p>
+</div><div id="connection-ok" style="display: none;" role="alert"><p>Połączenie sieciowe przywrócone. Możesz kontynuować bezpiecznie.</p>
+</div></div>
+                    <div class="mt-5 mb-1 activity-navigation container-fluid">
+<div class="row">
+    <div class="col-md-4">        <div class="float-left">
+                <a href="https://mdl.wszib.com.pl/mod/resource/view.php?id=18928&amp;forceview=1" id="prev-activity-link" class="btn btn-link" title="wykład 4 wersja mobi">◄ wykład 4 wersja mobi</a>
+
+        </div>
+</div>
+    <div class="col-md-4">        <div class="mdl-align">
+            <div class="urlselect">
+    <form method="post" action="https://mdl.wszib.com.pl/course/jumpto.php" class="form-inline" id="url_select_f63f2098d7691014">
+        <input type="hidden" name="sesskey" value="QfNw5a1bst">
+            <label for="jump-to-activity" class="sr-only">
+                Przejdź do...
+            </label>
+        <select id="jump-to-activity" class="custom-select urlselect" name="jump">
+                    <option value="" selected="">Przejdź do...</option>
+                    <option value="/mod/forum/view.php?id=18295&amp;forceview=1">Ogłoszenia</option>
+                    <option value="/mod/resource/view.php?id=18551&amp;forceview=1">Karta przedmiotu</option>
+                    <option value="/mod/quiz/view.php?id=18916&amp;forceview=1">BHP - zaliczenie wykładów</option>
+                    <option value="/mod/resource/view.php?id=18918&amp;forceview=1">wykład 1</option>
+                    <option value="/mod/resource/view.php?id=18919&amp;forceview=1">Wykład 1 wersja mobi</option>
+                    <option value="/mod/quiz/view.php?id=18920&amp;forceview=1">Pytania kontrolne do tematu 1</option>
+                    <option value="/mod/resource/view.php?id=18921&amp;forceview=1">wykład 2</option>
+                    <option value="/mod/resource/view.php?id=18922&amp;forceview=1">Wykład 2 wersja mobi</option>
+                    <option value="/mod/quiz/view.php?id=18923&amp;forceview=1">Pytania kontrolne do tematu 2</option>
+                    <option value="/mod/resource/view.php?id=18924&amp;forceview=1">wykład 3</option>
+                    <option value="/mod/resource/view.php?id=18925&amp;forceview=1">Wykład 3 wersja mobi</option>
+                    <option value="/mod/quiz/view.php?id=18926&amp;forceview=1">Pytania kontrolne do tematu 3</option>
+                    <option value="/mod/resource/view.php?id=18927&amp;forceview=1">wykład 4</option>
+                    <option value="/mod/resource/view.php?id=18928&amp;forceview=1">wykład 4 wersja mobi</option>
+                    <option value="/mod/resource/view.php?id=18930&amp;forceview=1">wykład 5</option>
+                    <option value="/mod/resource/view.php?id=18931&amp;forceview=1">wykład 5 wersja mobi</option>
+                    <option value="/mod/quiz/view.php?id=18932&amp;forceview=1">Pytania kontrolne do tematu 5</option>
+                    <option value="/mod/resource/view.php?id=18933&amp;forceview=1">wykład 6</option>
+                    <option value="/mod/resource/view.php?id=18934&amp;forceview=1">wykład 6 wersja mobi</option>
+                    <option value="/mod/quiz/view.php?id=18935&amp;forceview=1">Pytania kontrolne do tematu 6</option>
+                    <option value="/mod/resource/view.php?id=18936&amp;forceview=1">wykład 7</option>
+                    <option value="/mod/resource/view.php?id=18937&amp;forceview=1">wykład 7 wersja mobi</option>
+                    <option value="/mod/resource/view.php?id=18938&amp;forceview=1">Instrukcja bezpieczeństwa przy obsłudze komputera</option>
+                    <option value="/mod/resource/view.php?id=18939&amp;forceview=1">Alarm pożarowy</option>
+                    <option value="/mod/resource/view.php?id=18940&amp;forceview=1">Znaki bezpieczeństwa</option>
+                    <option value="/mod/url/view.php?id=18942&amp;forceview=1">Centralny Instytut Ochrony Pracy</option>
+                    <option value="/mod/url/view.php?id=18943&amp;forceview=1">ZUS</option>
+                    <option value="/mod/url/view.php?id=18944&amp;forceview=1">www.psp.pl</option>
+        </select>
+            <noscript>
+                <input type="submit" class="btn btn-secondary ml-1" value="Wykonaj">
+            </noscript>
+    </form>
+</div>
+
+        </div>
+</div>
+    <div class="col-md-4">        <div class="float-right">
+                <a href="https://mdl.wszib.com.pl/mod/resource/view.php?id=18930&amp;forceview=1" id="next-activity-link" class="btn btn-link" title="wykład 5">wykład 5 ►</a>
+
+        </div>
+</div>
+</div>
+</div>
+                    
+
+                </section>
+                <section data-region="blocks-column" class="d-print-none" aria-label="Bloki">
+                    <aside id="block-region-side-pre" class="block-region" data-blockregion="side-pre" data-droptarget="1"><a href="#sb-1" class="sr-only sr-only-focusable">Pomiń <span id="mod_quiz_navblock_title">Nawigacja w teście</span></a>
+
+<section id="mod_quiz_navblock" class=" block block_fake  card mb-3" role="navigation" data-block="_fake" aria-labelledby="instance-fakeid-63f2098d773e5-header">
+
+    <div class="card-body p-3">
+
+            <h5 id="instance-fakeid-63f2098d773e5-header" class="card-title d-inline"><span id="mod_quiz_navblock_title">Nawigacja w teście</span></h5>
+
+
+        <div class="card-text content mt-3">
+            <div class="qn_buttons clearfix multipages"><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton1" title="Nie zakończone" data-quiz-page="0" href="#"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>1<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton2" title="Nie zakończone" data-quiz-page="0" href="#question-45395-2"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>2<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton3" title="Nie zakończone" data-quiz-page="0" href="#question-45395-3"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>3<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton4" title="Nie zakończone" data-quiz-page="0" href="#question-45395-4"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>4<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton5" title="Nie zakończone" data-quiz-page="0" href="#question-45395-5"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>5<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton6" title="Nie zakończone" data-quiz-page="0" href="#question-45395-6"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>6<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton7" title="Nie zakończone" data-quiz-page="0" href="#question-45395-7"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>7<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton8" title="Nie zakończone" data-quiz-page="0" href="#question-45395-8"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>8<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton9" title="Nie zakończone" data-quiz-page="0" href="#question-45395-9"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>9<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a><a class="qnbutton notyetanswered free btn thispage" id="quiznavbutton10" title="Nie zakończone" data-quiz-page="0" href="#question-45395-10"><span class="thispageholder"></span><span class="trafficlight"></span><span class="accesshide">Pytanie </span>10<span class="accesshide"> Ta strona <span class="flagstate"></span></span></a></div><div class="othernav"><a class="endtestlink aalink" href="https://mdl.wszib.com.pl/mod/quiz/summary.php?attempt=38475&amp;cmid=18929">Zapisz podejście ...</a></div>
+            <div class="footer"></div>
+            
+        </div>
+
+    </div>
+
+</section>
+
+  <span id="sb-1"></span></aside>
+                </section>
+            </div>
+        </div>
+    </div>
+    
+    <div id="goto-top-link">
+        <a class="btn btn-light" role="button" href="#" aria-label="Idź w górę">
+            <i class="icon fa fa-arrow-up fa-fw " aria-hidden="true"></i>
+        </a>
+    </div>
+    <footer id="page-footer" class="py-3 bg-dark text-light">
+        <div class="container">
+            <div id="course-footer"></div>
+    
+    
+            <div class="logininfo">Jesteś zalogowany(a) jako <a href="https://mdl.wszib.com.pl/user/profile.php?id=6046" title="Zobacz profil">Kacper Burczak</a> (<a href="https://mdl.wszib.com.pl/login/logout.php?sesskey=QfNw5a1bst">Wyloguj</a>)</div>
+            <div class="tool_usertours-resettourcontainer"></div>
+            <div class="homelink"><a href="https://mdl.wszib.com.pl/course/view.php?id=2257">..Z22/23 - BHP LIC ZARZĄDZANIE</a></div>
+            <nav class="nav navbar-nav d-md-none" aria-label="Niestandardowe menu">
+                    <ul class="list-unstyled pt-3">
+                    </ul>
+            </nav>
+            <div class="tool_dataprivacy"><a href="https://mdl.wszib.com.pl/admin/tool/dataprivacy/summary.php">Podsumowanie zasad przechowywania danych</a></div><a href="https://download.moodle.org/mobile?version=2020110911&amp;lang=pl&amp;iosappid=633359593&amp;androidappid=com.moodle.moodlemobile">Pobierz aplikację mobilną</a>
+            <script>
+//<![CDATA[
+var require = {
+    baseUrl : 'https://mdl.wszib.com.pl/lib/requirejs.php/1675033097/',
+    // We only support AMD modules with an explicit define() statement.
+    enforceDefine: true,
+    skipDataMain: true,
+    waitSeconds : 0,
+
+    paths: {
+        jquery: 'https://mdl.wszib.com.pl/lib/javascript.php/1675033097/lib/jquery/jquery-3.5.1.min',
+        jqueryui: 'https://mdl.wszib.com.pl/lib/javascript.php/1675033097/lib/jquery/ui-1.12.1/jquery-ui.min',
+        jqueryprivate: 'https://mdl.wszib.com.pl/lib/javascript.php/1675033097/lib/requirejs/jquery-private'
+    },
+
+    // Custom jquery config map.
+    map: {
+      // '*' means all modules will get 'jqueryprivate'
+      // for their 'jquery' dependency.
+      '*': { jquery: 'jqueryprivate' },
+      // Stub module for 'process'. This is a workaround for a bug in MathJax (see MDL-60458).
+      '*': { process: 'core/first' },
+
+      // 'jquery-private' wants the real jQuery module
+      // though. If this line was not here, there would
+      // be an unresolvable cyclic dependency.
+      jqueryprivate: { jquery: 'jquery' }
+    }
+};
+
+//]]>
+</script>
+<script src="https://mdl.wszib.com.pl/lib/javascript.php/1675033097/lib/requirejs/require.min.js"></script>
+<script>
+//<![CDATA[
+M.util.js_pending("core/first");
+require(['core/first'], function() {
+require(['core/prefetch'])
+;
+require(["media_videojs/loader"], function(loader) {
+    loader.setUp('pl');
+});;
+M.util.js_pending('core/network'); require(['core/network'], function(amd) {amd.keepalive(720, 0, "Sesja wygas\u0142a. Zaloguj si\u0119 ponownie."); M.util.js_complete('core/network');});;
+function legacy_activity_onclick_handler_1(e) { e.halt(); window.open('https://mdl.wszib.com.pl/mod/resource/view.php?id=18927&redirect=1', '', 'width=620,height=450,toolbar=no,location=no,menubar=no,copyhistory=no,status=no,directories=no,scrollbars=yes,resizable=yes'); return false; };
+
+require(['jquery', 'message_popup/notification_popover_controller'], function($, controller) {
+    var container = $('#nav-notification-popover-container');
+    var controller = new controller(container);
+    controller.registerEventListeners();
+    controller.registerListNavigationEventListeners();
+});
+;
+
+        require(['jquery', 'core/custom_interaction_events'], function($, CustomEvents) {
+            CustomEvents.define('#jump-to-activity', [CustomEvents.events.accessibleChange]);
+            $('#jump-to-activity').on(CustomEvents.events.accessibleChange, function() {
+                if (!$(this).val()) {
+                    return false;
+                }
+                $('#url_select_f63f2098d7691014').submit();
+            });
+        });
+    ;
+
+M.util.js_pending('theme_boost/loader');
+require(['theme_boost/loader'], function() {
+    M.util.js_complete('theme_boost/loader');
+});
+
+M.util.js_pending('theme_boost/drawer');
+require(['theme_boost/drawer'], function(drawer) {
+    drawer.init();
+    M.util.js_complete('theme_boost/drawer');
+});
+;
+M.util.js_pending('qtype_multichoice/answers'); require(['qtype_multichoice/answers'], function(amd) {amd.init("question-45395-1"); M.util.js_complete('qtype_multichoice/answers');});;
+M.util.js_pending('qtype_multichoice/clearchoice'); require(['qtype_multichoice/clearchoice'], function(amd) {amd.init("question-45395-1", "q45395:1_clearchoice"); M.util.js_complete('qtype_multichoice/clearchoice');});;
+M.util.js_pending('qtype_multichoice/answers'); require(['qtype_multichoice/answers'], function(amd) {amd.init("question-45395-2"); M.util.js_complete('qtype_multichoice/answers');});;
+M.util.js_pending('qtype_multichoice/clearchoice'); require(['qtype_multichoice/clearchoice'], function(amd) {amd.init("question-45395-2", "q45395:2_clearchoice"); M.util.js_complete('qtype_multichoice/clearchoice');});;
+M.util.js_pending('qtype_multichoice/answers'); require(['qtype_multichoice/answers'], function(amd) {amd.init("question-45395-3"); M.util.js_complete('qtype_multichoice/answers');});;
+M.util.js_pending('qtype_multichoice/clearchoice'); require(['qtype_multichoice/clearchoice'], function(amd) {amd.init("question-45395-3", "q45395:3_clearchoice"); M.util.js_complete('qtype_multichoice/clearchoice');});;
+M.util.js_pending('core_form/submit'); require(['core_form/submit'], function(amd) {amd.init("mod_quiz-next-nav"); M.util.js_complete('core_form/submit');});;
+M.util.js_pending('core/notification'); require(['core/notification'], function(amd) {amd.init(50393, []); M.util.js_complete('core/notification');});;
+M.util.js_pending('core/log'); require(['core/log'], function(amd) {amd.setConfig({"level":"trace"}); M.util.js_complete('core/log');});;
+M.util.js_pending('core/page_global'); require(['core/page_global'], function(amd) {amd.init(); M.util.js_complete('core/page_global');});
+    M.util.js_complete("core/first");
+});
+//]]>
+</script>
+<script>
+//<![CDATA[
+M.yui.add_module({"core_question_engine":{"name":"core_question_engine","fullpath":"https:\/\/mdl.wszib.com.pl\/lib\/javascript.php\/1675033097\/question\/qengine.js","requires":["node","event"]}});
+
+//]]>
+</script>
+<script>
+//<![CDATA[
+M.str = {"moodle":{"lastmodified":"Ostatnia modyfikacja","name":"Nazwa","error":"B\u0142\u0105d","info":"Informacja","yes":"Tak","no":"Nie","ok":"OK","cancel":"Anuluj","changesmadereallygoaway":"Dokonano zmian. Czy na pewno chcesz nawigowa\u0107 dalej i utraci\u0107 swoje zmiany?","confirm":"Potwierd\u017a","areyousure":"Czy jeste\u015b pewny?","closebuttontitle":"Zamknij","unknownerror":"Nieznany b\u0142\u0105d","file":"Plik","url":"URL"},"repository":{"type":"Typ","size":"Rozmiar","invalidjson":"Nieprawid\u0142owy ci\u0105g jSON","nofilesattached":"Nie za\u0142\u0105czono plik\u00f3w","filepicker":"Wyb\u00f3r plik\u00f3w","logout":"Wyloguj si\u0119","nofilesavailable":"Brak dost\u0119pnych plik\u00f3w","norepositoriesavailable":"Niestety, \u017cadne z istniej\u0105cych repozytori\u00f3w nie mo\u017ce zawiera\u0107 plik\u00f3w w wymaganym formacie.","fileexistsdialogheader":"Plik istnieje","fileexistsdialog_editor":"Plik o wybranej nazwie zosta\u0142 ju\u017c za\u0142\u0105czony do tekstu, kt\u00f3ry edytujesz.","fileexistsdialog_filemanager":"Plik o wybranej nazwie ju\u017c zosta\u0142 do\u0142\u0105czony","renameto":"Zmie\u0144 nazw\u0119 na \"{$a}\"","referencesexist":"Istnieje {$a} skr\u00f3t\u00f3w, kt\u00f3re wykorzystuj\u0105 ten plik jako \u017ar\u00f3d\u0142o.","select":"Wybierz"},"admin":{"confirmdeletecomments":"Zamierzasz usun\u0105\u0107 komentarze, czy jeste\u015b pewien(a)?","confirmation":"Potwierdzenie"},"question":{"flagged":"Zaznaczone flag\u0105"},"quiz":{"functiondisabledbysecuremode":"Ta funkcja jest obecnie wy\u0142\u0105czona","startattempt":"Rozpocznij podej\u015bcie","timesup":"Czas min\u0105\u0142!"},"debug":{"debuginfo":"Debug info","line":"Linia","stacktrace":"Stack trace"},"langconfig":{"labelsep":":"}};
+//]]>
+</script>
+<script>
+//<![CDATA[
+(function() {Y.use("moodle-filter_glossary-autolinker",function() {M.filter_glossary.init_filter_autolinking({"courseid":0});
+});
+Y.use("moodle-filter_mathjaxloader-loader",function() {M.filter_mathjaxloader.configure({"mathjaxconfig":"\nMathJax.Hub.Config({\n    config: [\"Accessible.js\", \"Safe.js\"],\n    errorSettings: { message: [\"!\"] },\n    skipStartupTypeset: true,\n    messageStyle: \"none\"\n});\n","lang":"pl"});
+});
+Y.use("moodle-mod_quiz-autosave",function() {M.mod_quiz.autosave.init("120");
+});
+ M.util.js_pending('random63f2098d769101'); Y.use('core_question_flags', function(Y) { M.core_question_flags.init(Y, "https:\/\/mdl.wszib.com.pl\/question\/toggleflag.php", [{"src":"https:\/\/mdl.wszib.com.pl\/theme\/image.php\/boost\/core\/1675033097\/i\/unflagged","title":"Zaznacz to pytanie flag\u0105","alt":"Nie oznaczony flag\u0105"},{"src":"https:\/\/mdl.wszib.com.pl\/theme\/image.php\/boost\/core\/1675033097\/i\/flagged","title":"Usu\u0144 flag\u0119","alt":"Zaznaczone flag\u0105"}], ["Oflaguj pytanie","Usu\u0144 flag\u0119"]);  M.util.js_complete('random63f2098d769101'); });
+ M.util.js_pending('random63f2098d769102'); Y.use('mod_quiz', function(Y) { M.mod_quiz.init_attempt_form(Y);  M.util.js_complete('random63f2098d769102'); });
+ M.util.js_pending('random63f2098d769103'); Y.use('mod_quiz', function(Y) { M.mod_quiz.nav.init(Y);  M.util.js_complete('random63f2098d769103'); });
+M.util.help_popups.setup(Y);
+ M.util.js_pending('random63f2098d7691015'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:1_-submit");  M.util.js_complete('random63f2098d7691015'); });
+ M.util.js_pending('random63f2098d7691016'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:2_-submit");  M.util.js_complete('random63f2098d7691016'); });
+ M.util.js_pending('random63f2098d7691017'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:3_-submit");  M.util.js_complete('random63f2098d7691017'); });
+ M.util.js_pending('random63f2098d7691018'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:4_-submit");  M.util.js_complete('random63f2098d7691018'); });
+ M.util.js_pending('random63f2098d7691019'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:5_-submit");  M.util.js_complete('random63f2098d7691019'); });
+ M.util.js_pending('random63f2098d7691020'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:6_-submit");  M.util.js_complete('random63f2098d7691020'); });
+ M.util.js_pending('random63f2098d7691021'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:7_-submit");  M.util.js_complete('random63f2098d7691021'); });
+ M.util.js_pending('random63f2098d7691022'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:8_-submit");  M.util.js_complete('random63f2098d7691022'); });
+ M.util.js_pending('random63f2098d7691023'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:9_-submit");  M.util.js_complete('random63f2098d7691023'); });
+ M.util.js_pending('random63f2098d7691024'); Y.use('core_question_engine', function(Y) { M.core_question_engine.init_submit_button(Y, "q45395:10_-submit");  M.util.js_complete('random63f2098d7691024'); });
+ M.util.js_pending('random63f2098d7691025'); Y.on('domready', function() { M.util.js_complete("init");  M.util.js_complete('random63f2098d7691025'); });
+})();
+//]]>
+</script>
+
+        </div>
+    </footer>
+</div><div id="yui3-css-stamp" style="position: absolute !important; visibility: hidden !important" class=""></div>
+
+
+</body>
